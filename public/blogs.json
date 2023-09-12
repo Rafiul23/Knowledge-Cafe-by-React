@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_photo": "https://i.ibb.co/YQv2xxK/1.jpg",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/DbrnnR1/boy1.png",
+      "title": "Lorem Ipsum",
+      "reading_time": 10,
+      "posted_date": "2023-09-12",
+      "hashtag": "#LoremIpsum"
+    },
+    {
+      "id": 2,
+      "cover_photo": "https://i.ibb.co/HTvG7WK/2.png",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/QNT9mNk/boy2.jpg",
+      "title": "Dolor Sit Amet",
+      "reading_time": 15,
+      "posted_date": "2023-09-11",
+      "hashtag": "#DolorSitAmet"
+    },
+    {
+      "id": 3,
+      "cover_photo": "https://i.ibb.co/RCztm70/3.png",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/CwPQNP3/girl1.jpg",
+      "title": "Consectetur Adipiscing",
+      "reading_time": 12,
+      "posted_date": "2023-09-10",
+      "hashtag": "#ConsecteturAdipiscing"
+    },
+    {
+      "id": 4,
+      "cover_photo": "https://i.ibb.co/LJY8MpN/4.jpg",
+      "author": "Bob Wilson",
+      "author_img": "https://i.ibb.co/Z12qNvn/girl2.jpg",
+      "title": "Sed Do Eiusmod",
+      "reading_time": 8,
+      "posted_date": "2023-09-09",
+      "hashtag": "#SedDoEiusmod"
+    },
+    {
+      "id": 5,
+      "cover_photo": "https://i.ibb.co/8XpTzXG/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg",
+      "author": "Eva Brown",
+      "author_img": "https://i.ibb.co/Z12qNvn/girl2.jpg",
+      "title": "Tempor Incididunt",
+      "reading_time": 20,
+      "posted_date": "2023-09-08",
+      "hashtag": "#TemporIncididunt"
+    }
+  ]
+  
